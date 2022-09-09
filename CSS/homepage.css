@@ -1,0 +1,27 @@
+body {
+    background-color: #FEE715FF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #101820FF;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#worstcooks {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div.listcontainer {
+    text-align: center;
+}
+
+ul.recipes {
+    display: inline-block;
+    font-style: italic;
+    text-align: left;
+}
